@@ -1,7 +1,10 @@
 # leaflet-map-simple
-A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
+Leaflet, is a powerful open-source library for displaying interactive maps on desktop or mobile devices.
 
 ## Link to live map 
 https://mryap.github.io/leaflet-map-simple/
+
+### Next
+To show a point-by-point guided tour, with a scrolling narrative to display text, images, audio, video, and scanned map backgrounds
 
 
